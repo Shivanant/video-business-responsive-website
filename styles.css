@@ -291,4 +291,35 @@ footer{
     .v-class-res{
         opacity: 0;
     }
+    .main-box{
+        width: 100%;
+        flex-direction: column-reverse;
+    }
+    .section{
+        flex-direction: column-reverse;
+        align-items: center;
+        justify-content: center;
+    }
+    .section img{
+        width: 50%;
+    }
+    .paras{
+        padding: 0px 0px;
+    }
+    .img-second{
+        display: flex;
+        justify-content: center     ;
+    }
+    .form{
+        max-width: 80%;
+    }
+    .second-box img{
+        max-width: 200px;
+    }
+    .text-large{
+        text-align: center;
+    }
+    .text-small{
+        text-align: center;
+    }
 }
